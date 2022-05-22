@@ -1,0 +1,25 @@
+/* Customize your main colors in :root variables */
+.wallet-adapter-button {
+    background-color : transparent;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-family: "Inter", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+}
+
+.lowMintButton{
+    width:300px !important;
+    display: inline-block !important;
+}
+
+.MuiButtonBase-root{
+    width:300px !important;
+}
